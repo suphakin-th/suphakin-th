@@ -2,7 +2,7 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/gcytT6S.png"/></a>
 <h1 align="center">Hi 👋, I'm suphakin thiwong</h1>
-<h3 align="center">A passionate frontend A kid who love 0 and 1, Base on Linear AL, Love AI, Dream to be friend with AI and made AI.developer from India</h3>
+<h3 align="center">A passionate frontend A kid who love 0 and 1, Base on Linear AL, Love AI, Dream to be friend with AI and made AI.developer from Thailand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suphakin-th&label=Profile%20views&color=0e75b6&style=flat" alt="suphakin-th" /> </p>
 
