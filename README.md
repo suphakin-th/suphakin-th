@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **suphakin.th@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/suphakin-thiwong-9a3b80162/](https://www.linkedin.com/in/suphakin-thiwong-9a3b80162/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/suphakin-thiwong/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
