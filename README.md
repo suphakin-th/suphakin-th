@@ -8,17 +8,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suphakin-th" alt="suphakin-th" /></a> </p>
 
-- 🔭 I’m currently working on [ViaGroup](https://www.viabus.co/)
+- 🔭 I’m currently working on [Pacific Cross Health](https://www.viabus.co/](https://www.pacificcrosshealth.com/th/health-insurance)
 
-- 🌱 I’m currently learning **RUST And AI**
-
+- 🌱 I’m currently learning
+  
+- = Hard skill : **RUST And AI**
+  
+- = Soft skill : **Critical Thinking**
+  
 - 👯 I’m looking to collaborate on [suphakin-th](https://github.com/suphakin-th)
 
 - 👨‍💻 All of my projects are available at [https://github.com/suphakin-th](https://github.com/suphakin-th)
 
 - 📝 I regularly write articles on [https://medium.com/@suphakin.th](https://medium.com/@suphakin.th)
 
-- 💬 Ask me about **Django**, **RUST**, **AI**, **Data**, **PHP**
+- 💬 Ask me about **RUST**, **PYTHON**, **AI**, **Data**, **PHP**
 
 - 📫 How to reach me **suphakin.th@gmail.com**
 
