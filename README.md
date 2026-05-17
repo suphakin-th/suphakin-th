@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suphakin-th" alt="suphakin-th" /></a> </p>
 
-- 🔭 I’m currently working on [Pacific Cross Health](https://www.viabus.co/](https://www.pacificcrosshealth.com/th/health-insurance)
+- 🔭 I’m currently working on [Pacific Cross Health](https://www.pacificcrosshealth.com/th/health-insurance) in Senior Architecture & Software Developer Position
 
 - 🌱 I’m currently learning
   
