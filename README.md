@@ -1,64 +1,42 @@
-7+ years architecting high-performance distributed systems. I specialize in performance-critical backends — re-engineering a real-time tracking service in Rust cut CPU/RAM from **89–99% → 20–27%**. Shipped an EV charging platform running across **250+ stations nationwide** and grew a transit app's active user base by **140%**.
-
-Currently at **Pacific Cross Health Insurance** — delivered 4 mission-critical systems single-handedly: Payment Gateway, E-Stamp Duty automation, TA Travel Accident platform, and HAPI hospital direct-claim.
-
-B.Sc. Mathematics & Computer Science — King Mongkut's University of Technology North Bangkok.
+7+ years building performance-critical distributed systems. Re-engineered a real-time tracking service in Rust — CPU/RAM **89–99% → 20–27%**. Shipped platforms used at **250+ EV stations** nationwide, drove **140% user growth** at ViaBus, and delivered 4 mission-critical systems solo at Pacific Cross.
 
 [![Medium](https://img.shields.io/badge/Medium-%40suphakin.th-000000?style=flat&logo=medium)](https://medium.com/@suphakin.th)&nbsp;[![Email](https://img.shields.io/badge/suphakin.th%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:suphakin.th@gmail.com)
 
 ---
 
-## Skills
+## Stack
 
-| | |
-|---|---|
-| **Expert** | Rust · Python · Django · FastAPI · PostgreSQL · REST APIs · Performance Engineering |
-| **Proficient** | PHP (Laravel) · Go · Java · Redis · Docker · AWS · MQTT · IoT · R-tree Geospatial |
-| **Familiar** | TensorFlow · Solana Blockchain · React · Next.js · GitLab CI/CD |
+**Languages**
 
----
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-## Experience
+**Backend & Data**
 
-**Senior Backend Engineer** — Pacific Cross Health Insurance &nbsp;`2025 – Present`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
-Architected and delivered 4 mission-critical systems: Payment Gateway (direct bank API integration), E-Stamp Duty automation (Revenue Dept. compliance), TA Travel Accident sales platform, and HAPI hospital direct-claim. Established the company's first GitLab CI/CD infrastructure.
+**Infrastructure**
 
-`PHP (Laravel)` `Rust` `Python` `Java` `PostgreSQL` `Docker`
-
----
-
-**Backend Engineer** — ViaBus Thailand &nbsp;`2023 – 2025`
-
-Grew active user base **140%** through scalable real-time public transportation tracking. Re-engineered core tracking service in Rust: CPU/RAM dropped from 89–99% → 20–27% (**70% server load reduction**). Implemented R-tree geospatial indexing for sub-millisecond location queries.
-
-`PHP` `Rust` `Java` `PostgreSQL` `Redis`
-
----
-
-**Backend Engineer** — Vekin Thailand &nbsp;`2022 – 2023`
-
-Built EV charging platform now running across **250+ stations nationwide**. Delivered Solana crypto platform with 20–35% quarterly token adoption growth. Led 12-person cross-functional team as Scrum Master. Built carbon credit ML models with TensorFlow.
-
-`Python` `Django` `Solana` `MQTT` `IoT` `TensorFlow` `PostgreSQL`
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 
 ---
 
-**Full Stack Developer** — Conicle &nbsp;`2019 – 2022`
+## Currently Building
 
-Built enterprise HR e-learning platform with **60% performance improvement** vs legacy system. Developed RBAC APIs for web and mobile clients on AWS.
-
-`Python` `Django` `FastAPI` `React` `Next.js` `AWS` `PostgreSQL`
-
----
-
-## Education & Certifications
-
-**B.Sc. Mathematics & Computer Science** — King Mongkut's University of Technology North Bangkok &nbsp;`2015 – 2019`
-
-🏆 Kaggle Master &nbsp;·&nbsp; 🗺️ OpenStreetMap Maintainer &nbsp;·&nbsp; 📋 ISO/IEC 29110 &nbsp;·&nbsp; 🎤 Skill4Life (Problem Solving & Public Speaking)
-
-**Languages:** Thai (Native) · English (Fluent) · Japanese & Spanish (Beginner)
+- **[CN-ArgoCD](https://github.com/suphakin-th/CN-ArgoCD)** — Private GKE platform · Terraform IaC · ArgoCD GitOps · Istio mTLS · LGTM observability
+- **[axon](https://github.com/suphakin-th/axon)** — Universal zero-cost automation engine
+- **[PBAM](https://github.com/suphakin-th/PBAM)** — Private Banking & Analytics Management
 
 ---
 
