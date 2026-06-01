@@ -1,24 +1,10 @@
-<div align="center">
+7+ years architecting high-performance distributed systems. I specialize in performance-critical backends — re-engineering a real-time tracking service in Rust cut CPU/RAM from **89–99% → 20–27%**. Shipped an EV charging platform running across **250+ stations nationwide** and grew a transit app's active user base by **140%**.
 
-# Suphakin Thiwong
-
-**Senior Backend Engineer** &nbsp;·&nbsp; 7+ Years &nbsp;·&nbsp; Bangkok, Thailand
-
-[![Kaggle Master](https://img.shields.io/badge/Kaggle-Master-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/suphakin)
-[![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-Maintainer-7EBC6F?style=flat&logo=openstreetmap&logoColor=white)](https://www.openstreetmap.org/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-suphakin--thiwong-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/suphakin-thiwong/)
-[![Medium](https://img.shields.io/badge/Medium-%40suphakin.th-000000?style=flat&logo=medium)](https://medium.com/@suphakin.th)
-[![Email](https://img.shields.io/badge/Email-suphakin.th%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:suphakin.th@gmail.com)
-
-</div>
-
----
-
-Senior Backend Engineer with 7+ years architecting high-performance distributed systems. I specialize in performance-critical backends — re-engineering a real-time tracking service in Rust cut CPU/RAM from **89–99% → 20–27%**. I shipped an EV charging platform now running across **250+ stations nationwide** and grew a transit platform's active user base by **140%**.
-
-Currently at **Pacific Cross Health Insurance**, where I single-handedly delivered 4 mission-critical systems — Payment Gateway, E-Stamp Duty automation, TA Travel Accident platform, and HAPI hospital direct-claim — equivalent output of a 4-developer team.
+Currently at **Pacific Cross Health Insurance** — delivered 4 mission-critical systems single-handedly: Payment Gateway, E-Stamp Duty automation, TA Travel Accident platform, and HAPI hospital direct-claim.
 
 B.Sc. Mathematics & Computer Science — King Mongkut's University of Technology North Bangkok.
+
+[![Medium](https://img.shields.io/badge/Medium-%40suphakin.th-000000?style=flat&logo=medium)](https://medium.com/@suphakin.th)&nbsp;[![Email](https://img.shields.io/badge/suphakin.th%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:suphakin.th@gmail.com)
 
 ---
 
@@ -68,7 +54,7 @@ Built enterprise HR e-learning platform with **60% performance improvement** vs 
 
 ## Education & Certifications
 
-**B.Sc. Mathematics & Computer Science** — King Mongkut's University of Technology North Bangkok `2015 – 2019`
+**B.Sc. Mathematics & Computer Science** — King Mongkut's University of Technology North Bangkok &nbsp;`2015 – 2019`
 
 🏆 Kaggle Master &nbsp;·&nbsp; 🗺️ OpenStreetMap Maintainer &nbsp;·&nbsp; 📋 ISO/IEC 29110 &nbsp;·&nbsp; 🎤 Skill4Life (Problem Solving & Public Speaking)
 
