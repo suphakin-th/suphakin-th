@@ -92,10 +92,10 @@
 ---
 
 <p>
-  <img align="left" src="https://github-readme-stats-7sgqc9v6h-suphakin-ths-projects.vercel.app/api/top-langs?username=suphakin-th&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" alt="suphakin-th" />
+  <img align="left" src="https://github-readme-stats-two-eosin-53.vercel.app/api/top-langs?username=suphakin-th&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" alt="suphakin-th" />
 </p>
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats-7sgqc9v6h-suphakin-ths-projects.vercel.app/api?username=suphakin-th&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="suphakin-th" />
+  &nbsp;<img align="center" src="https://github-readme-stats-two-eosin-53.vercel.app/api?username=suphakin-th&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="suphakin-th" />
 </p>
 
 <br clear="both" />
