@@ -66,6 +66,7 @@ Senior Backend Engineer based in **Bangkok 🇹🇭** with **7+ years** architec
 
 | Project | Stack | What it shows |
 |---|---|---|
+| [**axon**](https://github.com/suphakin-th/axon) | Bash · CI/CD · DevOps | Universal zero-cost delivery engine — automated deploys for any tech stack, self-hosted via Cloudflare Tunnel |
 | [**headless-commerce-engine**](https://github.com/suphakin-th/headless-commerce-engine) | TypeScript · NestJS · React/RN · Stripe | Headless e-commerce: shared domain model across web + mobile, server-side cart, HMAC-verified Stripe webhooks |
 | [**ledger-service**](https://github.com/suphakin-th/ledger-service) | Go · Rust · Hexagonal | Event-driven financial ledger — Go REST API + Rust async processor |
 | [**CN-ArgoCD**](https://github.com/suphakin-th/CN-ArgoCD) | Terraform · GKE · Istio | Private GKE platform with GitOps, service mesh, LGTM observability |
