@@ -1,105 +1,89 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=suphakin-th&label=Profile%20views&color=0e75b6&style=flat" alt="suphakin-th" />
+<!-- ===================== HEADER BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Suphakin%20Thiwong&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Senior%20Backend%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Platform%20Engineering&descSize=18&descAlignY=60" alt="header"/>
 </p>
-
-7+ years architecting high-performance distributed systems. Re-engineered a Rust tracking service — CPU/RAM **89–99% → 20–27%**. Shipped platforms across **250+ EV stations** nationwide. Drove **140% user growth** at ViaBus. Delivered 4 mission-critical systems solo at Pacific Cross.
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=suphakin-th&theme=tokyonight&no-frame=true&row=1&column=7" alt="" />
-</p>
-
-- 🔭 Currently at **[Pacific Cross Health Insurance](https://www.pacificcrosshealth.com/th/health-insurance)** — Payment Gateway · E-Stamp Duty · HAPI hospital direct-claim
-- 🌱 Currently learning — **Platform Engineering** (GKE · ArgoCD · Istio · Terraform)
-- 💬 Ask me about — **Rust** · **Python** · high-performance backends · distributed systems · geospatial
-- 📝 Writing at — [medium.com/@suphakin.th](https://medium.com/@suphakin.th)
-- 📫 Reach me — **suphakin.th@gmail.com**
-- 📄 Full experience — [LinkedIn](https://www.linkedin.com/in/suphakin-thiwong/)
-- 🏆 **Kaggle Master** · 🗺️ **OpenStreetMap Maintainer**
-
----
-
-<h3 align="left">Connect</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/suphakin-thiwong" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@suphakin.th" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools</h3>
-<p align="left">
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40" />
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" />
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-  </a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" />
-  </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40" />
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  </a>
-</p>
-
----
-
-<p>
-  <img align="left" src="https://github-readme-stats-two-eosin-53.vercel.app/api/top-langs?username=suphakin-th&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" alt="suphakin-th" />
-</p>
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats-two-eosin-53.vercel.app/api?username=suphakin-th&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="suphakin-th" />
-</p>
-
-<br clear="both" />
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suphakin-th&theme=tokyonight&hide_border=true" alt="suphakin-th" />
+  <a href="https://linkedin.com/in/suphakin-thiwong"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://medium.com/@suphakin.th"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="mailto:suphakin.th@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=suphakin-th&style=for-the-badge&color=2C5364&label=Profile+Views" alt="profile views"/>
+</p>
+
+---
+
+### 👋 About
+
+Senior Backend Engineer based in **Bangkok 🇹🇭** with **7+ years** architecting high-performance distributed systems. I care about systems that stay fast and observable under real load.
+
+- 🦀 Re-engineered a Rust tracking service, cutting CPU/RAM from **89–99% → 20–27%**
+- ⚡ Shipped platforms across **250+ EV charging stations** nationwide
+- 📈 Drove **140% user growth** at ViaBus
+- 🏥 Currently at **[Pacific Cross Health Insurance](https://www.pacificcrosshealth.com/th/health-insurance)** — Payment Gateway · E-Stamp Duty · HAPI hospital direct-claim
+- 🌱 Going deep on **Platform Engineering** — GKE · ArgoCD · Istio · Terraform
+- 🏆 **Kaggle Master** · 🗺️ **OpenStreetMap Maintainer**
+- 📝 Writing at [medium.com/@suphakin.th](https://medium.com/@suphakin.th)
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+</p>
+
+**Data & Infrastructure**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+</p>
+
+**Frameworks & Tools**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+</p>
+
+---
+
+### 📌 Featured Projects
+
+| Project | Stack | What it shows |
+|---|---|---|
+| [**headless-commerce-engine**](https://github.com/suphakin-th/headless-commerce-engine) | TypeScript · NestJS · React/RN · Stripe | Headless e-commerce: shared domain model across web + mobile, server-side cart, HMAC-verified Stripe webhooks |
+| [**ledger-service**](https://github.com/suphakin-th/ledger-service) | Go · Rust · Hexagonal | Event-driven financial ledger — Go REST API + Rust async processor |
+| [**CN-ArgoCD**](https://github.com/suphakin-th/CN-ArgoCD) | Terraform · GKE · Istio | Private GKE platform with GitOps, service mesh, LGTM observability |
+| [**OpenRustMap**](https://github.com/suphakin-th/OpenRustMap) | Rust · Leaflet | Geospatial mapping with R-tree indexed location queries |
+
+> 💻 Run my CLI résumé: `npx suphakin-th`
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="left" height="165" src="https://github-readme-stats-two-eosin-53.vercel.app/api/top-langs?username=suphakin-th&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
+  <img align="center" height="165" src="https://github-readme-stats-two-eosin-53.vercel.app/api?username=suphakin-th&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
+</p>
+
+<br clear="both"/>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suphakin-th&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
