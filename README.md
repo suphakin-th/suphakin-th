@@ -1,6 +1,6 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Suphakin%20Thiwong&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Senior%20Backend%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Platform%20Engineering&descSize=18&descAlignY=60" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Suphakin%20Thiwong&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Tech%20Lead%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Platform%20Engineering&descSize=18&descAlignY=60" alt="header"/>
 </p>
 
 <p align="center">
@@ -14,12 +14,13 @@
 
 ### 👋 About
 
-Senior Backend Engineer based in **Bangkok 🇹🇭** with **7+ years** architecting high-performance distributed systems. I care about systems that stay fast and observable under real load.
+Tech Lead and backend engineer based in **Bangkok 🇹🇭** with **7+ years** architecting high-performance distributed systems. I care about systems that stay fast and observable under real load.
 
 - 🦀 Re-engineered a Rust tracking service, cutting CPU/RAM from **89–99% → 20–27%**
 - ⚡ Shipped platforms across **250+ EV charging stations** nationwide
 - 📈 Drove **140% user growth** at ViaBus
-- 🏥 Currently at **[Pacific Cross Health Insurance](https://www.pacificcrosshealth.com/th/health-insurance)** — Payment Gateway · E-Stamp Duty · HAPI hospital direct-claim
+- 🧭 Currently **Tech Lead at Socket9** — leading backend architecture and technical direction
+- 🏥 Previously at **[Pacific Cross Health Insurance](https://www.pacificcrosshealth.com/th/health-insurance)** — Payment Gateway · E-Stamp Duty · HAPI hospital direct-claim
 - 🌱 Going deep on **Platform Engineering** — GKE · ArgoCD · Istio · Terraform
 - 🏆 **Kaggle Master** · 🗺️ **OpenStreetMap Maintainer**
 - 📝 Writing at [medium.com/@suphakin.th](https://medium.com/@suphakin.th)
@@ -72,7 +73,7 @@ Senior Backend Engineer based in **Bangkok 🇹🇭** with **7+ years** architec
 | [**CN-ArgoCD**](https://github.com/suphakin-th/CN-ArgoCD) | Terraform · GKE · Istio | Private GKE platform with GitOps, service mesh, LGTM observability |
 | [**OpenRustMap**](https://github.com/suphakin-th/OpenRustMap) | Rust · Leaflet | Geospatial mapping with R-tree indexed location queries |
 
-> 💻 Run my CLI résumé: `npx suphakin-th`
+> 🌐 Full interactive résumé: **[suphakin-th-dev.babylvoob.org/profile](https://suphakin-th-dev.babylvoob.org/profile)**
 
 ---
 
