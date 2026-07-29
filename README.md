@@ -91,13 +91,14 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  <img align="left" height="165" src="https://github-readme-stats-two-eosin-53.vercel.app/api/top-langs?username=suphakin-th&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
-  <img align="center" height="165" src="https://github-readme-stats-two-eosin-53.vercel.app/api?username=suphakin-th&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
-</p>
-
-<br clear="both"/>
+<!-- Self-hosted via .github/workflows/profile-stats.yml — regenerated daily into this repo, so these never rate-limit or 404. -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suphakin-th&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="stats"/>
+  <img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="languages by repo"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="languages by commit"/>
+  <img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time"/>
 </p>
