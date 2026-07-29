@@ -1,0 +1,23 @@
+name: Profile Stats
+
+on:
+  schedule:
+    - cron: "0 20 * * *" # daily 03:00 Bangkok (UTC+7)
+  workflow_dispatch: {}
+  push:
+    branches: [master]
+    paths: [.github/workflows/profile-stats.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: suphakin-th
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
