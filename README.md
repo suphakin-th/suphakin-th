@@ -1,6 +1,6 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Suphakin%20Thiwong&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Tech%20Lead%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Platform%20Engineering&descSize=18&descAlignY=60" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Suphakin%20Thiwong&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AI%20Infrastructure%20%E2%80%A2%20Backend%20Engineering%20%E2%80%A2%20Rust&descSize=18&descAlignY=60" alt="header"/>
 </p>
 
 <p align="center">
@@ -14,14 +14,15 @@
 
 ### 👋 About
 
-Tech Lead and backend engineer based in **Bangkok 🇹🇭** with **7+ years** architecting high-performance distributed systems. I care about systems that stay fast and observable under real load.
+**AI Infrastructure & Backend Engineer** based in **Bangkok 🇹🇭** with **7+ years** architecting high-performance distributed systems. I build the production infrastructure that AI agents actually run on — in **Rust**, self-hosted, and observable under real load.
 
+- 🤖 Build **AI agents & MCP servers** end-to-end — including a TikTok Shop Affiliate MCP with hand-rolled HMAC-SHA256 request signing, and a voice assistant orchestrating a full toolchain
 - 🦀 Re-engineered a Rust tracking service, cutting CPU/RAM from **89–99% → 20–27%**
 - ⚡ Shipped platforms across **250+ EV charging stations** nationwide
 - 📈 Drove **140% user growth** at ViaBus
 - 🧭 Currently **Tech Lead at Socket9** — leading backend architecture and technical direction
 - 🏥 Previously at **[Pacific Cross Health Insurance](https://www.pacificcrosshealth.com/th/health-insurance)** — Payment Gateway · E-Stamp Duty · HAPI hospital direct-claim
-- 🌱 Going deep on **Platform Engineering** — GKE · ArgoCD · Istio · Terraform
+- 🌱 Going deep on **AI infra & Platform Engineering** — LLM agents · MCP · GKE · ArgoCD · Istio · Terraform
 - 🏆 **Kaggle Master** · 🗺️ **OpenStreetMap Maintainer**
 - 📝 Writing at [medium.com/@suphakin.th](https://medium.com/@suphakin.th)
 
@@ -38,6 +39,14 @@ Tech Lead and backend engineer based in **Bangkok 🇹🇭** with **7+ years** a
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 </p>
 
+**AI & Agents**
+<p>
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM%20Agents-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vector%20Search-FF6F00?style=flat-square&logo=databricks&logoColor=white"/>
+</p>
+
 **Data & Infrastructure**
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -47,6 +56,7 @@ Tech Lead and backend engineer based in **Bangkok 🇹🇭** with **7+ years** a
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
 </p>
 
@@ -67,9 +77,11 @@ Tech Lead and backend engineer based in **Bangkok 🇹🇭** with **7+ years** a
 
 | Project | Stack | What it shows |
 |---|---|---|
-| [**axon**](https://github.com/suphakin-th/axon) | Bash · CI/CD · DevOps | Universal zero-cost delivery engine — automated deploys for any tech stack, self-hosted via Cloudflare Tunnel |
-| [**headless-commerce-engine**](https://github.com/suphakin-th/headless-commerce-engine) | TypeScript · NestJS · React/RN · Stripe | Headless e-commerce: shared domain model across web + mobile, server-side cart, HMAC-verified Stripe webhooks |
+| [**JARVIS**](https://github.com/suphakin-th) | Python · Claude · MCP · Playwright | Voice-driven AI assistant orchestrating email, markets, calendar, GitHub, Cloudflare & self-hosted servers through a custom MCP toolchain |
+| [**tiktok-affiliate-mcp**](https://github.com/suphakin-th) | Node · MCP · HMAC-SHA256 | Custom MCP server for the TikTok Shop Affiliate Open API — hand-rolled request signing from scratch (none existed on npm) |
+| [**axon**](https://github.com/suphakin-th/axon) | Bash · CI/CD · DevOps | Universal zero-cost delivery engine — automated multi-arch deploys for any tech stack, self-hosted via Cloudflare Tunnel |
 | [**ledger-service**](https://github.com/suphakin-th/ledger-service) | Go · Rust · Hexagonal | Event-driven financial ledger — Go REST API + Rust async processor |
+| [**headless-commerce-engine**](https://github.com/suphakin-th/headless-commerce-engine) | TypeScript · NestJS · React/RN · Stripe | Headless e-commerce: shared domain model across web + mobile, server-side cart, HMAC-verified Stripe webhooks |
 | [**CN-ArgoCD**](https://github.com/suphakin-th/CN-ArgoCD) | Terraform · GKE · Istio | Private GKE platform with GitOps, service mesh, LGTM observability |
 | [**OpenRustMap**](https://github.com/suphakin-th/OpenRustMap) | Rust · Leaflet | Geospatial mapping with R-tree indexed location queries |
 
